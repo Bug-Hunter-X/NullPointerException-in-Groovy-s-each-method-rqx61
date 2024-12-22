@@ -1,0 +1,1 @@
+This repository demonstrates a common Groovy error: a NullPointerException arising from the use of the `each` method on a potentially null collection.  The `bug.groovy` file shows the problematic code, and `bugSolution.groovy` provides a solution using safe navigation and null checking.
